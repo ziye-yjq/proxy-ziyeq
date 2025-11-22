@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "proxy-ziyeq",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "250e91f5-be96-4eba-8c40-8980c0e2d1c4",
+      "database_name": "proxy-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
